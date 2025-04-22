@@ -1,4 +1,4 @@
-<header>
+<How to call my API>
 
 <!--
   <<< Author notes: Course header >>>
