@@ -1,0 +1,4 @@
+base URL: http://<YOUR-IP>:5000/api/time
+must imput a city after time
+the header needed to access is Authorization: Bearer supersecrettoken123
+an example of a working API call: curl -H "Authorization: Bearer supersecrettoken123" "http://34.55.36.179:5000/api/time?city=Tokyo"
